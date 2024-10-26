@@ -1,4 +1,4 @@
-#Airline Management System
+Airline Management System
 This project is an Airline Management System designed to manage the operations of airline ticket booking, customer details, journey information, payments, and cancellations. Developed as part of a Bachelor of Computer Applications program, this system provides a graphical interface to assist airline staff in efficiently handling customer and flight information.
 
 Table of Contents
