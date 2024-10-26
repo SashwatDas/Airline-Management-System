@@ -49,5 +49,4 @@ The Airline Management System project provides a centralized platform for managi
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/airline-management-system.git
-   cd airline-management-system
+   git clone https://github.com/SashwatDas/Airline-Management-System.git
